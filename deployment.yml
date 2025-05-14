@@ -19,3 +19,5 @@ spec:
           image: 853973692277.dkr.ecr.us-east-1.amazonaws.com/ns2312/hello-world-argocd:v1
           ports:
             - containerPort: 5000
+
+            
